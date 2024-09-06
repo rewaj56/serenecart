@@ -65,12 +65,6 @@ Install dependencies
   composer install
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
-
 Create Environment File
 ```bash
   cp .env.example .env
